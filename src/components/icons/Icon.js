@@ -1,0 +1,1 @@
+export const Icon = () => '<svg>Icon</svg>';
